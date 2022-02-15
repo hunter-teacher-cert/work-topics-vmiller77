@@ -2,4 +2,4 @@
 * First Name: Berkowitz
 
 # Instructions: You can run my app through the main.py file
-There are many routes to explore. The one with the form is /kickstart which is the route to a kickstarter website where you can add your email. If the email is not a correct format, the regex will check and let you know if it is good or bad. The other route is to an image and some persuasive reasons why one would invest in the kickstarter idea. It uses a session to track how many times the user has visited that page. Keeping track of this is helpful for kickstarters to see user traffic.
+There are many routes to explore. The one with the form is /kickstart which is the route to a kickstarter website where you can add your email. If the email is not a correct format, the regex will check and let you know if it is good or bad. The other route is /session_demo to an image and some persuasive reasons why one would invest in the kickstarter idea. It uses a session to track how many times the user has visited that page. Keeping track of this is helpful for kickstarters to see user traffic.
